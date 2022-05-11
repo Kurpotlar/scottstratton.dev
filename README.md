@@ -2,7 +2,7 @@
 Portfolio Site
 
 #ToDo
-Test
-Add specific projects
-Finish Blurb
-
+•Test
+•Add specific projects
+•Finish Blurb
+•
